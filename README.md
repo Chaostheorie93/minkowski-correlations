@@ -1,5 +1,7 @@
 # minkowski-correlations
 
+[![DOI](https://zenodo.org/badge/1436512511.svg)](https://doi.org/10.5281/zenodo.23718749)
+
 **Minkowski functionals of two-dimensional point patterns**
 
 `minkowski-correlations` is a Python package for computing the Minkowski functionals of the union of disks or annuli centered at points in a two-dimensional point pattern. The functionals characterize the area, boundary length, and topology of the resulting geometric set.

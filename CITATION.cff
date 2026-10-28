@@ -3,6 +3,7 @@ message: "If you use this software in your research, please cite it using the me
 type: software
 title: "minkowski-correlations"
 version: 0.1.0
+doi: 10.5281/zenodo.23718750
 authors:
   - family-names: "Pabst"
     given-names: "Dominik"
