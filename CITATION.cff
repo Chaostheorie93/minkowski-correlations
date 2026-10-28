@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it using the metadata in this file."
+type: software
+title: "minkowski-correlations"
+version: 0.1.0
+authors:
+  - family-names: "Pabst"
+    given-names: "Dominik"
+    orcid: "https://orcid.org/0009-0002-7671-6630"
